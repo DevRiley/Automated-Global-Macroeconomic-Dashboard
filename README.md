@@ -27,7 +27,7 @@ It automates the ETL process using **Python**, performs financial modeling (e.g.
 > **Note**: You can download the `.pbix` file from the `dashboard/` folder to explore the interactive view.
 
 ## 🛠️ Tech Stack
-* **Language**: Python 3.9
+* **Language**: Python 3.14
 * **Libraries**: `pandas`, `yfinance`, `fredapi`, `numpy`
 * **Visualization**: Microsoft Power BI
 * **Automation**: GitHub Actions (Cron Job)
