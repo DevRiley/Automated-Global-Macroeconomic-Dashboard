@@ -161,7 +161,7 @@ Real-time monitoring of asset performance and market sentiment to answer the cor
 
 
 
-## 1.1 Valuation Model: 200MA Heatmap
+## 1.1 Valuation Model: 200MA 
 **Logic:** This model utilizes **Mean Reversion** theory. It calculates the deviation of current prices from their long-term trend (200-day Moving Average). Prices rarely deviate too far from their long-term trend without eventually reverting.
 
 ### **The Formula (Trend Bias)**
