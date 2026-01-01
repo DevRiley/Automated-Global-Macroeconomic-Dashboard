@@ -10,8 +10,6 @@
 
 <p align="center">
   <strong>
-    <a href="#-dashboard-previews">📊 View Dashboard Demo</a>
-    &nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="src/etl_script.py">🐍 See the Code</a>
     &nbsp;&nbsp;|&nbsp;&nbsp;
     <a href="#-financial-logic--dashboard-architecture">🧠 Read Financial Logic</a>
